@@ -45,6 +45,7 @@ export default function Home() {
         <Image src='https://images.unsplash.com/photo-1579619572008-3fe9f19748ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
                layout='fill'
                className='object-cover'
+               alt='Background image'
         />
   
         {/* Search */}
