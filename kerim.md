@@ -9,4 +9,7 @@
 9. otvaramo terminal i instaliramo axios paket
 10. otvaramo terminal i instaliramo react ikonice
 11. otvaramo i uredujemo next.config.js fajl
-12. 
+12. kreiramo components folder
+13. unutar components foldera kreiramo Weather.jsx komponentu
+14. dodajemo spinner.gif sliku u public folder
+15. kreiramo i uredujemo Spinner.jsx komponentu
